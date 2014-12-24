@@ -1,0 +1,25 @@
+PlanePlotter Map Files produced by John Locker:
+
+Instructions for use:
+Extract the two files iin this archive (a jpg image & a clb co-ord file) and place
+them in the 'Chart Files' folder of PlanePlotter.
+
+You will find this typically on your main hard drive (C:/?) within this folder tree:
+Windows XP Operating Systems: Program Files/COAA/PlanePlotter/Chart Files 
+Windows Vista, Seven+ Operating Systems: COAA/PlanePlotter/Chart Files
+Note: this folder path can be anything you really want provided it does not lie within the
+'Program Files' folder as files need to be read/write)
+
+Proceed with their installation by refering to the Help/Tutorial within PlanePlotter.
+If you put the search word 'Maps' in the HELP search then go to the Maps tutorial you will
+find the detail there!
+
+This support service is provided by ManTMA Overflights Group for all users and we
+are proud to be associated with this ground breaking software.
+
+Website:www.mantma.co.uk
+Contact: admin[at]mantma.co.uk
+
+NB. All files are used at your own risk and should not harm your computer in any way.
+However no responsibility is taken by anyone associated with these files or this archieve
+in any way sould this not be the case!
